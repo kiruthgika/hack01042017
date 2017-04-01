@@ -1,0 +1,11 @@
+FirstName,Salary,CustId
+Frederick,5959,4
+Miley,126676,3
+Chelsea,6555590,8
+Carina,1043,3
+Lenny,5397,1
+Jacob,95464564,7
+Alexia,825525,2
+Charlie,1000002,7
+Vasanth,499999,2
+Karthik,999999,7
